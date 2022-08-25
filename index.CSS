@@ -1,0 +1,288 @@
+body 
+{
+    width: 100%;
+    /* background-color: brown; */
+    
+    
+}
+
+.imag_set
+{
+    background-size:cover;
+    background-repeat:no-repeat
+    padding bottom 5px;
+}
+* {
+    box-sizing: border-box;
+}
+
+#Na_decor {
+    /* text-decoration: underline black;
+   
+    text-shadow: 2px; */
+
+    font-size: 20px;
+    font-weight: 400;
+    font-family: 'Niconne', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #8a3d11;
+    text-shadow: 8px 2px 4px #957dad,
+        4px 4px 4px #03000c,
+}
+
+.nav_back_g
+{
+    background-color: rgb(56, 56, 58);
+   
+}
+
+
+
+
+
+.contianer {
+    color: aliceblue;
+    margin-left: 15%;
+    margin-top: 2cm;
+    border: 3px solid;
+    border-color: black;
+    /* border-style:double; */
+    width: 70%;
+    background-color: rgb(7, 83, 109,0.75);
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 80px;
+    padding-left: 80px;
+
+}
+
+
+a:link {
+    color: red;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: green;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: #551105;
+  }
+  
+  /* selected link */
+  a:active {
+    color: blue;
+  }
+
+#main_heading {
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 400;
+    font-family: 'Niconne', cursive;
+    color: #551105;
+    text-shadow: 2px 2px 0px #957dad,
+        4px 4px 0px #ebe7e6,
+        6px 6px 0px #063436,
+        8px 8px 0px #470505,
+        10px 10px 0px #16073f;
+}
+
+#setting_1 {
+    color: #4b0f04;                                                                  
+    font-family: 'a Alloy Ink', sans-serif;
+                                                
+                
+}
+
+.dec_1 {
+
+    clear: both;
+    float: left;
+}
+
+.para_setting {
+
+    text-indent: 50px;
+    letter-spacing: 3px;
+}
+
+
+
+
+.posi_1 {
+    margin-left: 10cm
+}
+
+#posi_2 {
+    margin-top: 25px;
+    margin-left: -45px;
+}
+
+
+#desig_1 {
+    text-shadow: 3px 3px 2px brown;
+
+}
+
+
+.twelve h1 {
+    font-size: 26px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    width: 160px;
+    text-align: center;
+    margin: auto;
+    white-space: nowrap;
+    padding-bottom: 13px;
+}
+
+.twelve h1:before {
+    background-color: #8a3d11;
+    content: '';
+    display: block;
+    height: 3px;
+    width: 75px;
+    margin-bottom: 5px;
+}
+
+.twelve h1:after {
+    background-color: #8a3d11;
+    content: '';
+    display: block;
+    position: relative;
+    right: 0px;
+    left: 90px;
+    bottom: -5px;
+    height: 3px;
+    width: 75px;
+    margin-bottom: 0.25em;
+}
+
+
+
+.b {
+    list-style-type: square;
+    text-align: justify;
+}
+
+
+.setcard_posi {
+    color: black;
+    text-align: justify;
+    /* border: #470505 2px solid; */
+    padding: 60px;
+    padding-bottom: 0px;
+    padding-top: 30px;
+    background-position: center;
+}
+
+/* .....................For  Card At odd Position........................ */
+.setcard_posi_odd {
+    position: relative;
+    float: left;
+    color: black;
+    text-align: justify;
+    /* border: #470505 2px solid; */
+    padding-left: 10px;
+    padding-bottom: 0px;
+    padding-top: 30px;
+    text-align: left;
+}
+
+/* .....................For Spacing Between Content And Card........................ */
+.set_card {
+    top: 50px;
+    border-radius: 15px 50px 30px 5px;
+    padding: 20px;
+}
+
+
+.set_card_odd {
+    top: 50px;
+    border-radius: 15px 40px;
+    padding: 10px;
+}
+
+
+
+#posi_2 {
+    border-color: #530c0c;
+    /* border: 2px solid;
+    border-radius: 15px 50px; */
+    padding: auto; 
+}
+
+.border_work
+{
+    
+    border-radius: 15px 50px 30px 5px;
+    border-width: 5px ;
+    border: solid;
+    border-color: #530c0c;
+}
+
+
+.triangle-right {
+    position: relative;
+    top:-17px;
+    float :left ;
+    margin-left: 20px;
+	width :0px;
+	border-left: 0px solid transparent;
+	border-right:210px solid transparent;
+	border-top: 210px solid  rgb(59, 3, 3);  
+}
+
+.triangle-left
+{
+    float :right;
+    position: relative;
+    top:305px;
+    margin-right: 20px;
+	border-bottom: 210px solid rgb(59, 3, 3);
+	border-left: 210px solid transparent;
+    border-top:0px solid transparent;
+	border-right: 1px solid transparent;
+	height: 0;
+	width: 1px;
+    margin-top: 0px;
+}
+
+.sec2_dec
+{
+    width:70%;
+    margin-left:15% ;
+    padding: 10px; 
+}
+
+#s2_h2_style
+{  
+    text-align: center;
+    text-transform: uppercase; 
+}
+
+.time_posit
+{
+   
+   left:10%;
+   /* top: -120px; */
+}
+
+.dec_3
+{
+    width :100%;
+}
+
+.design_3
+{
+    position: relative;
+    top:5px;
+    width:70%;
+    margin-left:15%;
+    border-radius: 2px;
+    border: solid;
+    border-color: rgb(59, 3, 3);
+}
